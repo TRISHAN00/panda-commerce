@@ -1,0 +1,18 @@
+.gray-bg {
+  background-color: #fceae8;
+  padding: 50px;
+}
+.price-color {
+  color: #ff136f;
+  font-size: 40px;
+  font-weight: 700;
+}
+.orange-bg {
+  background-color: #ffa500;
+}
+.dark-blue {
+  background-color: #da70d6;
+}
+.light-blue {
+  background-color: #0000ff;
+}
